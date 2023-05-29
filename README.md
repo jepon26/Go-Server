@@ -33,9 +33,9 @@ Before running the server, ensure that you have the following:
 
 5. Run the following command to start the server:
 
- `````shell
+ ```shell
 go run main.go
-
+```
 
 6. The server should now be running on http://localhost:3000.
     
