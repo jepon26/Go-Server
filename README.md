@@ -37,7 +37,7 @@ Before running the server, ensure that you have the following:
 Copy code
 go run main.go
 The server should now be running on http://localhost:3000.
-```
+```shell
 
 Usage
 Submitting the Form
