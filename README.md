@@ -44,7 +44,7 @@ go run main.go
 
 ### Submitting the Form
 
-* Open your web browser and navigate to ***http://localhost:3000**
+* Open your web browser and navigate to **http://localhost:3000**
 * Fill in the form fields with your name and address.
 *Click the "Submit" button to submit the form.
 * The server will render the submitted user information using the template.html file.
