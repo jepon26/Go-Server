@@ -16,8 +16,8 @@ Serves static files (HTML, CSS, JavaScript, etc.) from the "static" directory
 
 Before running the server, ensure that you have the following:
 
-. Go programming language installed on your machine **(Installation guide)**
-. A web browser to interact with the server
+* Go programming language installed on your machine **(Installation guide)**
+* A web browser to interact with the server
 
 
 ## Getting Started
