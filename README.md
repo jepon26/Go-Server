@@ -23,20 +23,21 @@ Before running the server, ensure that you have the following:
 ## Getting Started
 
 
-Clone this repository to your local machine or download the source code as a ZIP file.
+1. Clone this repository to your local machine or download the source code as a ZIP file.
 
-Navigate to the project directory in your terminal.
+2. Navigate to the project directory in your terminal.
 
-Open the template.html file and customize it to your liking. This file represents the template for rendering the user information.
+3. Open the **template.html** file and customize it to your liking. This file represents the template for rendering the user information.
 
-(Optional) Add your static files (HTML, CSS, JavaScript, etc.) to the "static" directory.
+4. (Optional) Add your static files (HTML, CSS, JavaScript, etc.) to the "static" directory.
 
-Run the following command to start the server:
+5. Run the following command to start the server:
 
-shell
+````shell
 Copy code
 go run main.go
 The server should now be running on http://localhost:3000.
+```
 
 Usage
 Submitting the Form
