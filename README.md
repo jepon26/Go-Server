@@ -39,15 +39,20 @@ go run main.go
 The server should now be running on http://localhost:3000.
 ```shell
 
-Usage
-Submitting the Form
-Open your web browser and navigate to http://localhost:3000.
-Fill in the form fields with your name and address.
-Click the "Submit" button to submit the form.
-The server will render the submitted user information using the template.html file.
-Serving Static Files
-To access static files (HTML, CSS, JavaScript, etc.), simply navigate to the respective URLs on the server.
-For example, if you have an index.html file in the "static" directory, you can access it at http://localhost:3000/index.html.
+
+## Usage
+
+### Submitting the Form
+
+* Open your web browser and navigate to ***http://localhost:3000**
+* Fill in the form fields with your name and address.
+*Click the "Submit" button to submit the form.
+* The server will render the submitted user information using the template.html file.
+
+## Serving Static Files
+
+* To access static files (HTML, CSS, JavaScript, etc.), simply navigate to the respective URLs on the server.
+* For example, if you have an **index.html** file in the "static" directory, you can access it at **http://localhost:3000/index.html.**
 Contributing
 
 
